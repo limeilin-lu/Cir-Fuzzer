@@ -1,0 +1,11 @@
+R           R
+R_Variable  R
+R_Photo     R
+CAP         C
+INDUCTOR    L
+DIODE       D
+LED         D
+Q_PJFET_DGS Q
+Q_NIGBT_CEG Q
+OP07        U
+STM32F103C8Tx     U
