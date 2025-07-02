@@ -23,7 +23,6 @@
 ### Environment Setup:
 Configure the paths in each source code file (.py) to enable execution.
 ***
-
 ***
 ### Experiment
 Configure the required component types in conf1.txt and set the selection probabilities for each component type in conf2.txt. Then, run loop_generator.py to generate schematics and their variant schematics. Next, execute SchematicToNetlist.py to convert the schematics into netlists. Select an appropriate simulation mode and perform the simulation in the corresponding XTesting.py. Finally, review the simulation results in the aoutput folder.
