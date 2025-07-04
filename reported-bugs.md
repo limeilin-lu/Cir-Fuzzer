@@ -11,3 +11,4 @@
 | [#791](https://sourceforge.net/p/ngspice/bugs/791/) | AC simulation fails in standalone Ngspice but works in KiCad's internal simulator | PB | D | NGspice |
 | [#794](https://sourceforge.net/p/ngspice/bugs/794/) | Simulation Failure with Netlist Exported from KiCad | PB | D | NGspice |
 | [#795](https://sourceforge.net/p/ngspice/bugs/795/) | NGspice LTPS Mode Simulation Fails with Added Open Branches in Circuit Variant | PB | D | NGspice |
+| [#797](https://sourceforge.net/p/ngspice/bugs/797/) | NGspice crashes with "Fatal error" when netlist contains undefined parameters | PB | C | NGspice |
