@@ -1,5 +1,5 @@
-# ICSG
-## [ICSG: Automated IC Schematic Generator for Error Detection in EDA Tool Chain](https://github.com/limeilin-lu/ICSG/edit/main/README.md)
+# Cir-Fuzzer
+## [Automated IC Schematic Generator for Error Detection in EDA Tool Chain](https://github.com/limeilin-lu/Cir-Fuzzer/edit/main/README.md)
 **Project Structure:**
 1. **sexpr.py**:S-expression.
 2. **kicad_sym.py**:Express KiCad symbol library files in the form of S-expressions.
@@ -29,4 +29,4 @@ Configure the required component types in conf1.txt and set the selection probab
 ***
 
 ### Reported bugs
-Our reported bugs is in [Bugs](https://github.com/limeilin-lu/ICSG/blob/main/reported-bugs.md).You can visit the websites of NGspice, KiCad, and LTspice to reproduce these errors.
+Our reported bugs is in [Bugs](https://github.com/limeilin-lu/Cir-Fuzzer/blob/main/reported-bugs.md).You can visit the websites of NGspice, KiCad, and LTspice to reproduce these errors.
