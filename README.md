@@ -29,4 +29,4 @@ Configure the required component types in conf1.txt and set the selection probab
 ***
 
 ### Reported bugs
-Our reported bugs is in [Bugs](https://github.com/limeilin-lu/Cir-Fuzzer/blob/main/reported-bugs.md).You can visit the websites of NGspice, KiCad, and LTspice to reproduce these errors.
+Our reported bugs is in [Bugs](https://github.com/limeilin-lu/Cir-Fuzzer/blob/main/reported-defects.md).You can visit the websites of NGspice, KiCad, and LTspice to reproduce these errors.
